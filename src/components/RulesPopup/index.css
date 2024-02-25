@@ -1,0 +1,18 @@
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.trigger-button {
+  height: 40px;
+  width: 65px;
+  background-color: transparent;
+  color: #ffffff;
+}
+
+.popup-image{
+    height: 250px;
+    width: 100%;
+}
